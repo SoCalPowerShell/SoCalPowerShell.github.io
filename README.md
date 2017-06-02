@@ -1,2 +1,1 @@
-# SoCalPowerShell.github.io
-Website
+Website for SoCal PowerShell.
