@@ -93,9 +93,9 @@ avatarurl: "https://www.gravatar.com/avatar/4031fe73ac898f311324778b6059d8a6" # 
 # 8. Site navigation
 navigation_header:
   Home: /
-  Elements: /elements/
-  Blog: /blog/
-  Categories: /categories/
+  News: /blog/
+  Meeting Schedule: /schedule/
+  About: /about/
   Search: /search/
 
 navigation_footer:
