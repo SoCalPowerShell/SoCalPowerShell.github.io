@@ -59,6 +59,7 @@ collections:
     title: News and Events # Needed for Siteleaf
     output: true
     description: "Recent news and events posted by the group organizers" # The post list page content
+    feature_text: News and Events
 
 # 6. Jekyll collections settings
 defaults:
