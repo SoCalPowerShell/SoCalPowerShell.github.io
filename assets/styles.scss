@@ -51,13 +51,16 @@ body {
 .feature {
   padding-bottom: .4rem;
   margin-bottom: 1.6rem;
-  text-align: center;
+  text-align: left;
   background: $featureBackgroundColour;
   background-size: cover;
-  background-position: center;
+  background-repeat: no-repeat;
   .container {
-    min-height: 35vh;
+    min-height: 5rem;
     max-width: 60%;
+    font-family: "Lucida Console", "Lucida Sans Typewriter", monaco, "Bitstream Vera Sans Mono", monospace;
+    font-variant: small-caps;
+    font-size: 2rem;
     @include flex-direction(column);
     @include justify-content(center);
   }
