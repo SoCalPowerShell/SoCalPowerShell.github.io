@@ -1,6 +1,6 @@
 ---
 title: Meeting Schedule
-feature_image: "/assets/schedule.png"
+feature_text: Get-MeetingSchedule -Upcomming
 ---
 
 The details for our first meeting are still getting worked out.

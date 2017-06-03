@@ -1,6 +1,6 @@
 ---
 title: About
-feature_text: About the Organizers
+feature_text: Get-Topic "About the Organizers"
 ---
 
 I'll add basic group info and a bio for the organizers in this space. Here is a link to my bio for now.
