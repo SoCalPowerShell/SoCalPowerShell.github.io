@@ -1,6 +1,6 @@
 ---
 title: SoCal PowerShell
-feature_image: "/assets/banner.png"
+feature_text: "Southern California PowerShell User Group"
 ---
 
 6/2/2017
