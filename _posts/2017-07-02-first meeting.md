@@ -1,5 +1,5 @@
 ---
-title: Kevin Marquette presents "Everything you ever wanted to know about hashtables"
+title: Kevin Marquette presents "Everything you ever wanted to know about hashtables" on Aug 1st
 category: Meeting
 ---
 
