@@ -5,7 +5,7 @@ feature_text: "Southern California PowerShell User Group"
 
 8/5/2017
 
-Our next meeting will be Tuesday, Sept 2nd, in the City of Lake Forest.
+Our next meeting will be Tuesday, Sept 5nd, in the City of Lake Forest.
 We are just a few miles north of the Irvine Spectrum.
 
 Please RSVP: [www.meetup.com](https://www.meetup.com/SoCal-PowerShell-user-group/)
