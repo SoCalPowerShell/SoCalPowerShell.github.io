@@ -10,6 +10,9 @@ Our group meets on the first Tuesday of the month at 6:30 PM Pacific time with t
 Please take a quick peek at our [schedule](/schedule) and let us know if you could cover one of our open sessions.
 
 Thank you,
+
 Kevin Marquette
+
 [@KevinMarquette](https://www.twitter.com/kmarquette)
+
 [kevmar@gmail.com](mailto:kevmar@gmail.com)
