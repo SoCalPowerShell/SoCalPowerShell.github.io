@@ -1,3 +1,7 @@
+---
+title: Sept 5th after meeting review
+category: General
+---
 
 
 Thank you everyone that made it out tonight. I also want to thank David Christian for presenting tonight. I have already been working with Plaster and I still picked up a few things.
