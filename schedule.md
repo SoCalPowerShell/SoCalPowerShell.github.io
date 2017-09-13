@@ -10,7 +10,7 @@ description: Upcomming meeting schedule
 | 09/05/2017 | David Christian |                 Working with Plaster                |
 | 10/03/2017 | Kevin Marquette |                 Working With PSGraph                |
 | 11/07/2017 |   Warren Frame  |                         TBD                         |
-| 12/05/2017 |       TBD       |                         TBD                         |
+| 12/05/2017 |   Shane Young   |     PowerShell and SharePoint Online and On-Prem    |
 | 02/06/2017 | Kevin Marquette |   Beyond $ConfigData, Dynamic DSC and App Settings  |
 | 03/06/2017 |       TBD       |                         TBD                         |
 | 04/03/2017 |       TBD       |                         TBD                         |
