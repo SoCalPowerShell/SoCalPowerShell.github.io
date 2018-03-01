@@ -11,11 +11,12 @@ description: Upcomming meeting schedule
 | 10/03/2017 | Kevin Marquette |                 Working With PSGraph                |
 | 11/07/2017 |   Warren Frame  |                         TBD                         |
 | 12/05/2017 |   Shane Young   |     PowerShell and SharePoint Online and On-Prem    |
-| 02/06/2018 | Mark Kraus MVP  |      PowerShell Core 6.0.0 Web Cmdlets In Depth     |
-| 03/06/2018 | David Christian |                 Working with DSC                    |
-| 04/03/2018 | Kevin Marquette |                         TBD                         |
-| 05/01/2018 |       TBD       |                         TBD                         |
-| 06/05/2018 |       TBD       |                         TBD                         |
+| 02/06/2018 |  Mark Kraus MVP |      PowerShell Core 6.0.0 Web Cmdlets In Depth     |
+| 03/06/2018 | David Christian |                   Working with DSC                  |
+| 04/03/2018 |   Eric Phenix   |                   PowerShell GUIs                   |
+| 05/01/2018 | Kevin Marquette |              DSC Class Based Resources              |
+| 06/05/2018 | Kevin and David |            Dynamic DSC Configuration Data           |
+| 08/07/2018 | Kevin Marquette |         How loanDepot Leverages Dynamic DSC         |
 
 Our meetings are on the first Tuesday of the month.
 Each meetup will start a little after 6:30.
