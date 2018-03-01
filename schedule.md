@@ -20,7 +20,7 @@ description: Upcomming meeting schedule
 
 Our meetings are on the first Tuesday of the month.
 Each meetup will start a little after 6:30.
-Click [here](https://goo.gl/maps/drnt2yhysr72) for directions.
+Click [here](https://goo.gl/maps/Zv7kHx9Ptan) for directions.
 
 If your passionate about PowerShell and want to present please contact us with your name, topic and when you would like to speak.
 Remote presenters welcome!
